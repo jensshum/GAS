@@ -1,0 +1,80 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-12-05 20:16:49.456,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-12-06 00:00:00,,To,,2022-12-06,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+10,,"12/6/2022
+08:00 AM",30 min,,"Thompson, Hugh
+(M) (480) 226-9792
+",,,,2/1/1946,g27305,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+11,,"12/6/2022
+08:15 AM",30 min,,"Blake, Leona D
+(M) (480) 671-7853
+",,,,10/26/1956,g30253,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+13,,"12/6/2022
+08:30 AM",30 min,,"Padilla, Norma A
+(M) (480) 547-7410
+",,,,12/21/1961,g31459,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Scheduled,,,
+15,,"12/6/2022
+08:45 AM",30 min,,"Johnson, Dennis
+(M) (435) 201-7739
+",,,,3/1/1968,g31081,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+16,,"12/6/2022
+09:00 AM",30 min,,"Myers, David C
+(H) (623) 202-7020
+(M) (480) 820-9383
+",,,,11/28/1955,g31449,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+17,,"12/6/2022
+09:15 AM",30 min,,"Nguyen, Quyen H
+(M) (480) 248-9514
+",,,,9/20/1972,g31448,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+18,,"12/6/2022
+09:45 AM",30 min,,"Markoulis, Konstantina
+(H) (520) 723-6503
+(M) (561) 275-8227
+",,,,9/27/1951,g31177,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"12/6/2022
+10:15 AM",30 min,,"Hansen, Delight
+",,,,4/14/1947,g31516,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Scheduled,,,
+21,,"12/6/2022
+10:30 AM",30 min,,"Bulbulian, Nazareth
+(M) (480) 321-9677
+",,,,1/24/1977,g31446,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,attempted $ info,,,
+22,,"12/6/2022
+11:00 AM",30 min,,"Nicholson, Clayton
+(M) (602) 622-4991
+",,,,7/19/1978,g31445,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+23,,"12/6/2022
+11:15 AM",30 min,,"Avitia, Emily
+(M) (602) 814-7622
+",,,,12/10/2001,g31444,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+24,,"12/6/2022
+11:30 AM",30 min,,"Lassalle, Edrick
+(M) (787) 675-8094
+",,,,6/29/1993,g31170,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+25,,"12/6/2022
+11:45 AM",30 min,,"Tyus, Terri J
+(M) (480) 606-2147
+",,,,7/5/1967,g8643,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+26,,"12/6/2022
+12:00 PM",30 min,,"Hernandaz Delgado, Candy
+(M) (623) 340-4043
+",,,,2/1/1996,g31443,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+27,,"12/6/2022
+12:15 PM",30 min,,"Knutson, Brian K
+(H) (623) 332-4452
+",,,,3/19/1966,g30547,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+28,,"12/6/2022
+12:30 PM",30 min,,"Dierking, Dennis
+(H) (480) 861-2087
+",,,,10/7/1969,g22618,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+29,,"12/6/2022
+12:45 PM",30 min,,"Miller, Kimberly K
+(M) (682) 300-1264
+",,,,12/7/1965,g24676,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+30,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

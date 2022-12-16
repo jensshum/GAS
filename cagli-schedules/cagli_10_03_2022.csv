@@ -1,0 +1,65 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-10-03 06:00:35.990,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-10-03 00:00:00,,To,,2022-10-03,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"10/3/2022
+07:30 AM",30 min,,"Williams, Phillip D
+(H) (602) 570-0482
+(M) (602) 820-0915
+",,,,7/21/1958,g25219,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+11,,"10/3/2022
+08:00 AM",30 min,,"Stenberg, Patricia
+(M) (480) 703-3755
+",,,,5/11/1966,g30891,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"10/3/2022
+08:15 AM",30 min,,"Wallace, Angela J
+(M) (520) 371-1846
+",,,,10/22/1970,g13053,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+13,,"10/3/2022
+08:30 AM",30 min,,"Hollowell, Azia
+(M) (480) 267-3128
+",,,,12/19/1990,g30892,,EGD,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"10/3/2022
+08:45 AM",30 min,,"Shay, Amy
+(M) (951) 534-4544
+",,,,8/14/1979,g30893,,EGD,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"10/3/2022
+09:00 AM",30 min,,"Acosta, Enedina
+(M) (623) 826-3716
+",,,,1/22/1972,g30264,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+17,,"10/3/2022
+09:30 AM",30 min,,"Schwartz, Susan
+(H) (480) 430-9195
+",,,,8/17/1961,g18833,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+18,,"10/3/2022
+09:45 AM",30 min,,"Kemplin, Brian D
+(M) (480) 540-7213
+",,,,10/7/1964,g30906,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"10/3/2022
+10:00 AM",30 min,,"Mitchell, Bernadette L
+(H) (602) 900-3867
+(M) (623) 231-8952
+",,,,3/17/1961,g30786,,EGD-Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+22,,"10/3/2022
+10:30 AM",30 min,,"Williams, Reyniah
+(M) (480) 322-1952
+",,,,11/21/1989,g25143,,EGD,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+24,,"10/3/2022
+11:00 AM",30 min,,"Bauerle, Craig
+(M) (785) 504-5237
+",,,,2/14/1998,g30921,,EGD-Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,attempted $ info,,,
+25,,"10/3/2022
+11:45 AM",30 min,,"Duffield, Joseph
+(M) (602) 614-8507
+",,,,1/31/1996,g30771,,EGD,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+26,,"10/3/2022
+12:00 PM",30 min,,"Nieves, Jacob
+(M) (702) 981-3009
+",,,,9/10/2004,g30923,,EGD-Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+27,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

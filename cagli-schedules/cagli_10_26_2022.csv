@@ -1,0 +1,63 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-10-26 06:00:38.054,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-10-26 00:00:00,,To,,2022-10-26,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"10/26/2022
+08:30 AM",30 min,,"Coltrin, Tanner
+(M) (303) 242-0613
+",,,,4/23/1971,g31109,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+10,,"10/26/2022
+09:00 AM",30 min,,"Rodriguez, Karen
+(H) (818) 448-3279
+",,,,5/6/1992,g31126,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,no payment due,,,
+11,,"10/26/2022
+09:15 AM",30 min,,"Lawrence, Susan
+(M) (480) 464-4524
+",,,,4/4/1959,g30357,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"10/26/2022
+09:30 AM",30 min,,"Coughlin, Anthony
+(M) (480) 670-1989
+",,,,11/28/2003,g31090,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"10/26/2022
+09:45 AM",30 min,,"Reasch, Elizabeth
+(M) (480) 216-4703
+",,,,5/4/1996,g31113,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,attempted $ info,,,
+15,,"10/26/2022
+10:00 AM",30 min,,"Crook, Melanie
+(M) (480) 734-8265
+",,,,5/9/1981,g31112,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+16,,"10/26/2022
+10:15 AM",30 min,,"Trombley, Scott
+(M) (480) 437-4696
+",,,,11/17/1977,g30869,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+17,,"10/26/2022
+10:30 AM",30 min,,"Moraine, Brenda K
+",,,,7/10/1958,g31111,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+18,,"10/26/2022
+10:45 AM",30 min,,"Acosta, Maria A
+(M) (480) 343-4792
+",,,,6/23/1952,g31110,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"10/26/2022
+11:00 AM",30 min,,"Mcgill, James
+(M) (480) 809-7134
+",,,,7/31/1982,g30944,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+20,,"10/26/2022
+11:30 AM",30 min,,"Padilla, Adam G
+(M) (480) 618-8791
+",,,,4/21/1992,g24131,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Confirmed,,,
+21,,"10/26/2022
+11:45 AM",30 min,,"Rohla, Daniel J
+(H) (602) 422-3326
+",,,,6/21/2002,g31138,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Scheduled,,,
+22,,"10/26/2022
+12:15 PM",30 min,,"Allen, Shalanda
+(H) (480) 329-5301
+(M) (480) 593-8882
+",,,,12/25/1981,g2105,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,no payment due,,,
+24,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

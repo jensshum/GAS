@@ -1,0 +1,1 @@
+C:/Users/Owner/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Owner/Documents/GAS/new-step-1-upload.py

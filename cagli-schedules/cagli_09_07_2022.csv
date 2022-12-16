@@ -1,0 +1,51 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-09-07 06:00:32.709,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-09-07 00:00:00,,To,,2022-09-07,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+11,,"9/7/2022
+09:00 AM",30 min,,"Williams, Phillip D
+(M) (602) 820-0915
+",,,,7/21/1958,g25219,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"9/7/2022
+09:15 AM",30 min,,"Roberts, Romeo
+(M) (480) 729-4233
+",,,,7/14/1950,g30608,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+13,,"9/7/2022
+09:30 AM",30 min,,"Tuck, Melvin Dwight
+(M) (301) 326-8548
+",,,,6/15/1975,g30645,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"9/7/2022
+10:00 AM",30 min,,"Martin, Halee
+(M) (480) 387-7128
+",,,,12/6/2001,g30727,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"9/7/2022
+10:15 AM",30 min,,"Gomez, Theresa Louise
+(H) (480) 282-2566
+",,,,1/19/1975,g30728,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+16,,"9/7/2022
+10:30 AM",30 min,,"Guevara, Segundo
+(M) (480) 382-9429
+",,,,12/18/1967,g30682,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+17,,"9/7/2022
+10:45 AM",30 min,,"Jaff, Agir
+(M) (619) 617-9625
+",,,,12/19/1969,g30683,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"9/7/2022
+11:15 AM",30 min,,"McCollom, Teresa
+(M) (248) 930-0445
+",,,,9/12/1963,g30685,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+20,,"9/7/2022
+11:45 AM",30 min,,"Miller, Josie K
+(M) (928) 242-2068
+",,,,2/12/1972,g28158,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+22,,"9/7/2022
+12:00 PM",30 min,,"Orozco, Norma A
+(M) (480) 452-5754
+",,,,3/26/1960,g30590,,EGD,EGD,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+23,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

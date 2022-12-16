@@ -1,0 +1,60 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-12-01 23:24:17.336,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-12-02 00:00:00,,To,,2022-12-02,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"12/2/2022
+07:30 AM",30 min,,"Moore, Cristina P
+(M) (408) 417-3000
+",,,,12/15/1956,g31425,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"12/2/2022
+08:00 AM",30 min,,"Glynn, Paul
+(M) (480) 697-1906
+",,,,11/25/1968,g26969,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"12/2/2022
+08:30 AM",30 min,,"Lundell, Marsha L
+(H) (630) 624-1711
+",,,,8/1/1947,g14398,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation,,,
+16,,"12/2/2022
+09:00 AM",30 min,,"Kroff, Victoria E
+(H) (480) 319-1287
+(M) (480) 980-2429
+(W) (480) 694-7374",,,,9/12/1958,g31433,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation Attempted,,,
+17,,"12/2/2022
+09:15 AM",30 min,,"Gardezy, Rabia
+(M) (480) 319-0831
+",,,,2/14/1966,g28658,,EGD,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+18,,"12/2/2022
+09:30 AM",30 min,,"Haught, Benjamin
+(M) (208) 921-0068
+",,,,10/25/1978,g31432,,EGD,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"12/2/2022
+09:45 AM",15 min,,"Devaney, Thu A
+(M) (808) 635-4691
+",,,,6/5/1975,g31431,,Doctor out of Network,Colonoscopy,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation Attempted,,,
+20,,"12/2/2022
+10:00 AM",15 min,,"Johnson II, Jawando Levett
+(M) (480) 241-4940
+",,,,2/15/1995,g31429,,Doctor out of Network,EGD,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation,,,
+21,,"12/2/2022
+10:15 AM",30 min,,"Edwards, Christophe
+(H) (480) 363-8332
+",,,,12/11/1960,g31463,,EGD-Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+23,,"12/2/2022
+11:00 AM",30 min,,"Atkison, Samuel E
+(M) (480) 266-3963
+",,,,1/4/1985,g31426,,EGD-EUS,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation,,,
+24,,"12/2/2022
+12:00 PM",30 min,,"Rivera, Daniel C
+(H) (480) 462-8874
+",,,,3/29/1983,g20467,,EGD-Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation Attempted,,,
+25,,"12/2/2022
+12:30 PM",15 min,,"Ramp, Patricia Anne
+(M) (805) 717-3395
+",,,,11/22/1984,g31424,,Doctor out of Network,EGD,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation Attempted,,,
+26,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,61 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,13:00.9,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,11/18/2022 0:00,,To,,11/18/2022,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"11/18/2022
+07:30 AM",30 min,,"Hinton, Tiffany
+(M) (480) 651-5300
+",,,,4/24/1980,g31209,,EGD-Colonoscopy,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+10,,"11/18/2022
+08:00 AM",30 min,,"Youngman, Laurel
+(M) (480) 297-2177
+",,,,4/13/1958,g27891,,Colonoscopy,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+11,,"11/18/2022
+08:15 AM",15 min,,"Klimas, Chris
+(M) (480) 384-0867
+",,,,10/8/1971,g31311,,Insurance Not Contracted,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Scheduled,,,
+12,,"11/18/2022
+08:30 AM",30 min,,"Joy, Grace
+(H) (602) 821-6804
+(M) (602) 821-6804
+",,,,10/31/1984,g19878,,EGD,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+13,,"11/18/2022
+08:45 AM",30 min,,"Cotton, Joyce M
+(H) (608) 630-2195
+(M) (608) 807-8544
+",,,,7/29/1951,g31310,,Colonoscopy,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"11/18/2022
+09:00 AM",30 min,,"Lindholm, Beyra
+(M) (480) 305-3528
+",,,,7/17/1984,g31045,,EGD,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,attempted $ info,,,
+15,,"11/18/2022
+09:15 AM",30 min,,"Hansen, Anakah
+(M) (859) 533-2367
+",,,,3/9/2005,g31309,,EGD,Patient is a minor.  Approval by Dr. Reddy to treat patient.,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Confirmed,,,
+17,,"11/18/2022
+10:00 AM",30 min,,"Tuten, Brandon
+(M) (480) 454-0897
+",,,,11/29/1984,g31308,,EGD,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Confirmed,,,
+20,,"11/18/2022
+10:45 AM",30 min,,"Solomon, Larry
+(M) (602) 740-4562
+",,,,11/1/1962,g31303,,Colonoscopy,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Confirmed,,,
+22,,"11/18/2022
+11:30 AM",30 min,,"Stowers, Tanner
+(M) (480) 438-0095
+",,,,9/7/2001,g31305,,EGD-Colonoscopy,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,attempted $ info,,,
+23,,"11/18/2022
+12:00 PM",30 min,,"Carr, Shane
+(M) (480) 374-0988
+",,,,5/8/1973,g31304,,Colonoscopy,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,Confirmed,,,
+24,,"11/18/2022
+12:15 PM",30 min,,"Forbis, Tonya
+(M) (928) 890-4637
+",,,,9/27/1973,g31345,,EGD-Colonoscopy,,,"Nemakayala, Divyesh",Central Arizona GI and Liver Institute,,attempted $ info,,,
+25,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

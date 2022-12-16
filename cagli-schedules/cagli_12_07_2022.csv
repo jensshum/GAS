@@ -1,0 +1,59 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-12-06 20:48:13.482,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-12-07 00:00:00,,To,,2022-12-07,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"12/7/2022
+09:00 AM",30 min,,"Lindl, Michael
+(M) (480) 516-5778
+",,,,5/10/1990,g31469,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,attempted $ info,,,
+11,,"12/7/2022
+09:15 AM",30 min,,"Tisdale, James
+(M) (602) 672-9134
+",,,,11/8/1964,g31489,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"12/7/2022
+09:30 AM",30 min,,"Blake, Jeffrey Alan
+(M) (480) 766-8707
+",,,,9/23/1970,g31517,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"12/7/2022
+09:45 AM",30 min,,"Thomas, Nathaniel
+(H) (480) 861-2848
+(M) (480) 417-3613
+",,,,6/10/1997,g29015,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"12/7/2022
+10:00 AM",30 min,,"Hite, Tori
+(M) (602) 451-6443
+",,,,6/5/1987,g31473,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+16,,"12/7/2022
+10:00 AM",30 min,,"Howell, Brittany L
+(M) (315) 571-2021
+",,,,11/4/1993,g31484,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,attempted $ info,,,
+19,,"12/7/2022
+10:30 AM",30 min,,"Sandhu, Balbir K
+(M) (602) 505-6409
+",,,,10/28/1955,g31480,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+20,,"12/7/2022
+11:00 AM",30 min,,"Cho, Sunhwa
+(M) (480) 258-3161
+",,,,1/25/1968,g31492,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+21,,"12/7/2022
+11:15 AM",30 min,,"Taylor, Steven M
+(M) (979) 942-8570
+",,,,9/28/1970,g31491,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+22,,"12/7/2022
+11:30 AM",30 min,,"Montes, Luis
+(M) (480) 516-6042
+",,,,4/13/1996,g31490,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+23,,"12/7/2022
+11:45 AM",30 min,,"Sanders, Hannah
+(M) (480) 427-1257
+",,,,1/6/2001,g23489,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+26,,"12/7/2022
+12:30 PM",30 min,,"Rountree, Joe B
+",,,,9/6/1957,g31531,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+27,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

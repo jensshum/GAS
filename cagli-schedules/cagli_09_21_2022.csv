@@ -1,0 +1,61 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-09-21 06:34:58.266,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-09-21 00:00:00,,To,,2022-09-21,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"9/21/2022
+09:00 AM",30 min,,"Fritz, Michael W
+(M) (480) 280-8914
+",,,,10/25/1977,g25629,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+11,,"9/21/2022
+09:15 AM",30 min,,"Searls, Chad
+(H) (602) 625-5362
+",,,,4/1/1986,g30839,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+13,,"9/21/2022
+09:30 AM",30 min,,"Cann, Phillip Gary
+(H) (818) 261-0610
+(M) (480) 930-6502
+",,,,6/26/1976,g30852,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"9/21/2022
+10:00 AM",30 min,,"Pirie, Samara D
+(M) (480) 758-9890
+",,,,7/24/1968,g30795,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+17,,"9/21/2022
+10:15 AM",30 min,,"Weiss, Jacob
+(M) (480) 251-6318
+",,,,7/30/1994,g30716,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+18,,"9/21/2022
+10:30 AM",30 min,,"Mcneal, Shermain M
+(M) (602) 350-7068
+",,,,9/8/1966,g30806,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"9/21/2022
+11:00 AM",30 min,,"Carry, Carla
+(M) (316) 207-3982
+",,,,1/13/1955,g15366,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+20,,"9/21/2022
+11:15 AM",30 min,,"Goodman, Johny
+(H) (480) 321-6871
+(M) (480) 709-0299
+",,,,7/10/1981,g1501,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+22,,"9/21/2022
+11:30 AM",30 min,,"Melberg, Katharine L
+(M) (763) 222-5098
+",,,,8/4/1964,g30856,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+23,,"9/21/2022
+11:45 AM",30 min,,"Ruiz, James
+(M) (480) 250-9863
+",,,,5/13/1988,g30807,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,attempted $ info,,,
+24,,"9/21/2022
+12:00 PM",30 min,,"Jenkins, Lauren
+(M) (614) 648-0311
+",,,,7/23/1979,g29072,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+25,,"9/21/2022
+12:15 PM",30 min,,"Gallegos, Tailynn
+(M) (505) 373-9256
+",,,,11/22/2003,g30864,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+26,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

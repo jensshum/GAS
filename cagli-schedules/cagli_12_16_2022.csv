@@ -1,0 +1,52 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-12-15 19:38:45.882,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-12-16 00:00:00,,To,,2022-12-16,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"12/16/2022
+08:00 AM",30 min,,"Alonzo, Rose
+(M) (480) 524-8611
+",,,,5/16/1985,g31545,,EGD,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation,,,
+11,,"12/16/2022
+08:30 AM",30 min,,"Sanchez, Arnoldo
+(M) (928) 225-6262
+",,,,1/3/1957,g31550,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,One Week Confirmation Attempted,,,
+12,,"12/16/2022
+08:45 AM",30 min,,"Hallenbeck, Christopher
+(M) (623) 606-1615
+",,,,7/19/1968,g31553,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+14,,"12/16/2022
+09:00 AM",30 min,,"Rios, Alejandro Andrada
+(M) (602) 405-7495
+",,,,10/2/1989,g31574,,EGD,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"12/16/2022
+09:30 AM",30 min,,"Briggs, Marcellene M
+(H) (303) 669-1392
+",,,,10/25/1963,g596,,EGD-Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+17,,"12/16/2022
+10:15 AM",30 min,,"Driver, Amanda
+(M) (620) 910-8370
+",,,,2/15/1994,g31572,,EGD-Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+18,,"12/16/2022
+10:45 AM",30 min,,"Alderman, Marvin
+(H) (928) 243-1135
+",,,,2/5/1966,g19995,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"12/16/2022
+11:00 AM",30 min,,"Helm, Elisabeth K
+(H) (602) 943-5350
+(M) (602) 571-9479
+",,,,7/8/1948,g31573,,Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+20,,"12/16/2022
+11:30 AM",30 min,,"Casciola, Leon R
+(M) (480) 287-4384
+",,,,11/11/1960,g31575,,EGD-Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+21,,"12/16/2022
+12:00 PM",30 min,,"Davis, Darrian
+(M) (602) 522-1515
+",,,,9/14/1977,g31576,,EGD-Colonoscopy,,,"Chouhan, Jay",Central Arizona GI and Liver Institute,,Confirmed,,,
+23,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

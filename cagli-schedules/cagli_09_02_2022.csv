@@ -1,0 +1,39 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-09-02 06:00:30.904,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-09-02 00:00:00,,To,,2022-09-02,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"9/2/2022
+07:30 AM",30 min,,"Ferreira, Kathleen
+(M) (480) 229-6820
+",,,,8/4/1962,g30606,,EGD-Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+10,,"9/2/2022
+08:00 AM",30 min,,"Ballesteros, Veronica
+(M) (480) 685-1877
+",,,,3/27/1985,g30612,,EGD-Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+11,,"9/2/2022
+08:45 AM",30 min,,"Ayala-Alfaro, Carlos A
+(M) (480) 320-8942
+",,,,9/20/1963,g30609,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+12,,"9/2/2022
+09:00 AM",30 min,,"Flores, Lucas
+(M) (512) 635-9224
+",,,,1/9/1987,g30674,,EGD,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+14,,"9/2/2022
+09:30 AM",30 min,,"Tillwach, Kerrilynn
+(M) (480) 862-2228
+",,,,2/3/1973,g29205,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+15,,"9/2/2022
+09:45 AM",30 min,,"Chavez, Maria Martina
+(M) (480) 206-7631
+",,,,5/20/1967,g30611,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+16,,"9/2/2022
+10:00 AM",15 min,,"Ngo, Ton
+(M) (480) 650-7198
+",,,,12/14/1969,g26722,,Sigmoidoscopy-EUS,EGD-EUS- Insurance not covered after 08/31/22,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+17,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

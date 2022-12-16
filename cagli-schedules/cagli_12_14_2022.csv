@@ -1,0 +1,49 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-12-13 20:27:41.648,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-12-14 00:00:00,,To,,2022-12-14,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"12/14/2022
+09:00 AM",30 min,,"Mills, Jerry B
+(M) (602) 741-1648
+",,,,7/28/1955,g31533,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,One Week Confirmation,,,
+10,,"12/14/2022
+09:30 AM",30 min,,"Jackson, Mark
+(M) (602) 332-2994
+",,,,7/1/1977,g31535,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+11,,"12/14/2022
+10:00 AM",30 min,,"Jones, Latrina
+(M) (520) 475-1920
+(W) (480) 699-2222",,,,10/10/1974,g31536,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,One Week Confirmation Attempted,,,
+12,,"12/14/2022
+10:30 AM",30 min,,"Marks, Michael
+(H) (480) 358-5353
+(M) (480) 310-6979
+",,,,6/18/2000,g31403,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"12/14/2022
+11:00 AM",30 min,,"Berroteran, Miguel
+(H) (480) 544-5269
+(M) (480) 544-5269
+",,,,7/3/1964,g31543,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,One Week Confirmation,,,
+16,,"12/14/2022
+11:30 AM",30 min,,"Jones, Victoria
+(M) (925) 354-5825
+",,,,11/7/1992,g31544,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+17,,"12/14/2022
+11:45 AM",30 min,,"Eshelman, Jacob
+(H) (602) 731-1589
+",,,,6/29/1997,g31569,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,no payment due,,,
+19,,"12/14/2022
+12:00 PM",30 min,,"Bias, Karen
+(H) (928) 785-7785
+",,,,12/18/1956,g31539,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,One Week Confirmation,,,
+20,,"12/14/2022
+12:30 PM",30 min,,"Hammontree, Kevin R
+(H) (602) 463-4511
+",,,,4/14/1954,g31537,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,One Week Confirmation Attempted,,,
+21,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

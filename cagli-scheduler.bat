@@ -1,0 +1,2 @@
+C:/Users/Owner/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Owner/Downloads/get-cagli-schedule.py
+C:/Users/Owner/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Owner/Documents/Gas/cagli-write-patient-final.py

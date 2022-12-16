@@ -1,0 +1,37 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-10-05 06:00:33.095,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-10-05 00:00:00,,To,,2022-10-05,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"10/5/2022
+09:00 AM",30 min,,"Kenny, Mairead D
+(M) (480) 775-4215
+",,,,11/1/1962,g26094,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+11,,"10/5/2022
+09:30 AM",30 min,,"Salgado, Oceana
+(H) (602) 367-5792
+(M) (480) 358-5111
+",,,,8/5/2003,g30919,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+13,,"10/5/2022
+10:00 AM",30 min,,"Cooper, Nancy N
+(M) (480) 305-4860
+",,,,4/1/1960,g30916,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"10/5/2022
+10:15 AM",30 min,,"Liversedge, Robert D
+(M) (602) 818-8146
+",,,,8/22/1966,g30584,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"10/5/2022
+10:30 AM",30 min,,"Rivera, Megan R
+(H) (480) 703-6490
+(M) (480) 982-1110
+",,,,9/7/1984,g30908,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+18,,"10/5/2022
+11:30 AM",30 min,,"Lowery, Nicole
+(M) (480) 627-9497
+",,,,10/29/1974,g30909,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+20,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

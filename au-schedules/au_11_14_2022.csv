@@ -1,0 +1,265 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import Select
+import sys
+from time import sleep
+from datetime import date, timedelta
+import datetime
+import pandas as pd
+import pyautogui as py
+import subprocess
+import gender_guesser.detector as gender_detector
+
+# GLOBALS--------------------------------------------------------------------------------------------
+
+now = datetime.datetime.now()
+TODAYS_DATE = (now.strftime('%m/%d/%Y'))
+yesterday = now - timedelta(days = 1)
+YESTERDAYS_DATE = yesterday.strftime('%m/%d/%Y')
+tomorrow = now + timedelta(days = 1)
+TOMORROWS_DATE = tomorrow.strftime('%m/%d/%Y')
+# date_to_use = "10/20/2022"
+date_to_use = TOMORROWS_DATE
+
+PATH = "C:\Program Files (x86)\chromedriver.exe"
+URL = 'https://m.epreop.com/Clients/GANS/PatientEncounter/CaseDetail'
+chrome_options = Options()
+# chrome_options.add_argument("--headless")
+driver = webdriver.Chrome(PATH)
+FILE_PATH = "C:/Users/Owner/Documents/GAS/cagli-schedules/"
+FILE = "cagli_{}.csv".format(date_to_use.replace('/','_'))
+# FILE = "cagli_07_22_2022.csv"
+
+if len(sys.argv) > 1:
+    if len(sys.argv) < 5:
+        START_ITEM = int(sys.argv[1])
+else:
+    START_ITEM = 0
+
+# FUNCTIONS -----------------------------------------------------------------------------------------
+
+def search_by_ID(id_code):
+    search = driver.find_element(By.ID, id_code)
+    return search
+
+def search_by_XPATH(Xpath):
+    search = driver.find_element(By.XPATH, Xpath)
+    return search
+
+
+def wait_until_available(search_term, qualifier, item):
+    try_count = 1
+    while try_count <= 15:
+        try: 
+            if qualifier == "ID":
+                if item == "click":
+                    search_by_ID(search_term).click()
+                elif item == "clear":
+                    search_by_ID(search_term).clear()
+                else:
+                    search_by_ID(search_term).send_keys(item)
+                
+            elif qualifier == "XPATH":
+                if item == "click":
+                    search_by_XPATH(search_term).click()
+                    # break
+                elif item == "clear":   
+                    search_by_XPATH(search_term).clear()
+                else:
+                    search_by_XPATH(search_term).send_keys(item)
+
+            elif qualifier == "CLASS_NAME":
+                if item == "click":
+                    search = driver.find_element(By.CLASS_NAME, search_term)
+                    search.click()
+                elif item == "clear":
+                    search = driver.find_element(By.CLASS_NAME, search_term)
+                    search.clear()
+                else:
+                    search = driver.find_element(By.CLASS_NAME, search_term)
+                    search.send_keys(item)
+            break
+        except Exception as e:
+            if try_count == 1:
+                print(f"Error, {e} Retrying...")
+            else:
+                print(f"Error, retrying... try count: {try_count}")
+            sleep(.5)
+            try_count += 1
+
+def open_file():
+    with open(FILE_PATH + FILE, 'r') as f:
+        df = pd.read_csv(f)
+        return df
+
+def select_gender(name):
+    # print(name)
+    name = name.split(", ")[1].split(" ")[0]
+    print(name)
+    d = gender_detector.Detector()
+    gender = d.get_gender(name)
+    print(gender)
+    if gender == "female":
+        gender = "F"
+    elif gender == "male":
+        gender = "M"
+    elif gender == 'mostly_female':
+        gender = "F"
+    elif gender == 'mostly_male':
+        gender = 'M'
+    elif gender == 'unknown':
+        gender = 'U'
+    select = Select(driver.find_element(By.XPATH, '//*[@id="Gender"]'))
+    if gender == 'M':
+        select.select_by_value('M')
+    elif gender == 'F':
+        select.select_by_value('F')
+    else:
+        select.select_by_value('U')
+    return
+
+def select_facility():
+    select = Select(driver.find_element(By.XPATH, '//*[@id="SurgicalLocationID"]'))
+    select.select_by_value('70b29922-5686-e911-8104-000d3a609173')
+    return
+
+def select_procedure(procedure_name):
+    driver.execute_script("window.scrollBy(0,250)", "")
+    wait_until_available('SurgicalProcedureCPT','ID','clear')
+    if procedure_name == 'EGD-Colonoscopy':
+        wait_until_available('SurgicalProcedureCPT','ID','EGD W/ ADDL/COLONOSCOPY')
+        sleep(1)
+        # wait_until_available('//*[@id="ui-id-2"]/li','XPATH','click')
+        wait_until_available('//*[@id="MedicalProcedureID-results"]/ul/li[1]','XPATH','click')
+
+    elif procedure_name == 'EGD':
+        wait_until_available('SurgicalProcedureCPT','ID',str(procedure_name).upper())
+        sleep(1)
+        wait_until_available('//*[@id="MedicalProcedureID-results"]/ul/li[3]','XPATH','click')
+        
+    elif procedure_name == 'Colonoscopy':
+        wait_until_available('SurgicalProcedureCPT','ID',str(procedure_name).upper())
+        sleep(1)
+        wait_until_available('//*[@id="MedicalProcedureID-results"]/ul/li[1]','XPATH','click')
+
+def add_provider(surgeon):
+    sleep(1)
+    div_id = search_by_XPATH('//*[@id="popupProvider"]/div[2]/div/div[1]/div[1]').get_attribute('id')
+    select = Select(driver.find_element(By.XPATH, '//*[@id="{}"]/select'.format(div_id)))
+    select.select_by_value('240612a4-0924-44aa-9280-805b8d6f1261')
+    providers = driver.find_elements(By.XPATH,'//*[@id="popupProvider"]/div[2]/div/ul/li/a')
+    for provider in providers:
+        if str(surgeon).upper() in provider.text:
+            provider.click()
+    driver.find_element(By.XPATH,'//*[@id="popupProvider"]/div[2]/div/div[2]/div[1]/a').click()
+    py.press('enter')
+    return
+
+def add_anesthesia_provider():
+    sleep(1)
+    curr_month = now.strftime("%m_%Y")
+    file = 'C:/users/Owner/documents/gas/IntrigmaChiefNames_for_month_{}.csv'.format(curr_month)
+    df = pd.DataFrame(pd.read_csv(file))
+    date_today = now.strftime('%b %#d')
+    for i in range(df.shape[0]):
+        thing = str(df.loc[i][1])
+        split = thing.split("\n")
+        date = split[0]
+        if date_today == date:
+            if len(split) > 1:
+                anes_provider = split[2].replace(".","")
+                print(date,anes_provider)
+    div_id = search_by_XPATH('//*[@id="popupProvider"]/div[2]/div/div[1]/div[1]').get_attribute('id')
+    select = Select(driver.find_element(By.XPATH, '//*[@id="{}"]/select'.format(div_id)))
+    select.select_by_value('de8b793f-5750-4b40-8ed4-091a492aa3ee')
+    providers = driver.find_elements(By.XPATH,'//*[@id="popupProvider"]/div[2]/div/ul/li/a')
+    for provider in providers:
+        if anes_provider.upper() in provider.text:
+            provider.click()
+    driver.find_element(By.XPATH,'//*[@id="popupProvider"]/div[2]/div/div[2]/div[1]/a').click()
+    py.press('enter')
+    return
+
+def return_dob(dob):
+    split = dob.split("/") 
+    print(split)
+    if len(split[0]) == 1:
+        mo = "0" + split[0]
+    else:
+        mo = split[0]
+    if len(split[1]) == 1:
+        day = "0" + split[1]
+    else:
+        day = split[1]
+    dob = mo + "/" + day + "/" + split[2]
+    return dob
+    
+
+def add_new_patients():
+
+    df = open_file()
+
+    j = 9
+    for i in range(START_ITEM,df.shape[0]):
+
+        time = df.loc[j]['Unnamed: 1'].split("\n")[1]
+        print(time)
+        name = df.loc[j]['Unnamed: 4'].split('\n')[0]
+        patient_firstname = name.split(",")[1]
+        patient_lastname = name.split(",")[0].replace(" ","")
+        duration = df.loc[j]['Unnamed: 2']
+        dob = df.loc[j]['Unnamed: 8']
+        mrn = df.iloc[j]['Unnamed: 9']
+        procedure = df.iloc[j]['Unnamed: 11']
+        provider = df.iloc[j]['Unnamed: 14']
+        facility = df.iloc[j]['Unnamed: 15']
+        j += 1
+
+        wait_until_available('PatientMRN','ID', 'clear')
+        wait_until_available('PatientMRN','ID', str(mrn))
+        wait_until_available('PatientFirstName','ID', 'clear')
+        wait_until_available('PatientFirstName','ID', str(patient_firstname))
+        wait_until_available('PatientLastName','ID', 'clear')
+        wait_until_available('PatientLastName','ID', str(patient_lastname))
+        wait_until_available('DOB_DatePicker','ID', 'clear')
+        wait_until_available('DOB_DatePicker','ID', return_dob(dob))
+        select_procedure(str(procedure))
+        select_facility()
+        select_gender(name)
+        wait_until_available('ProcedureDate_DatePicker','ID', 'clear')
+        wait_until_available('ProcedureDate_DatePicker','ID', date_to_use)
+        wait_until_available('ProcedureTime','ID', 'clear')
+        wait_until_available('ProcedureTime','ID', time.split(" ")[0])
+        search_by_ID('ProcedureTime').send_keys(time.split(" ")[1])
+        driver.execute_script("openMobilePopup('popupProvider')")
+        add_provider(provider)
+        driver.execute_script("openMobilePopup('popupProvider')")
+        add_anesthesia_provider()
+        wait_until_available('//*[@id="mainContent"]/div[1]/form/div[14]/button','XPATH','click')
+        sleep(5)
+        driver.execute_script("window.history.go(-1)")
+
+# MAIN ----------------------------------------------------------------------------------------------
+
+def main():
+    
+    driver.get(URL)
+    driver.find_element(By.ID,"UserName").send_keys('shshumway')
+    driver.find_element(By.ID,"UserPassword").send_keys('Gofastgas22')
+    driver.find_element(By.ID,"btnlogin").click()
+    add_new_patients()
+
+
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+
+
+

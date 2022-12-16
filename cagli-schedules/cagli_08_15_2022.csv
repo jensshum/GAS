@@ -1,0 +1,86 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-08-15 06:00:31.306,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-08-15 00:00:00,,To,,2022-08-15,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"8/15/2022
+07:30 AM",30 min,,"Randolph, Paige
+(H) (480) 299-5555
+(M) (480) 349-4177
+",,,,11/25/1998,g13741,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+10,,"8/15/2022
+07:45 AM",30 min,,"Kelly, Sean
+(M) (480) 493-9697
+",,,,3/26/1966,g30460,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+11,,"8/15/2022
+08:00 AM",30 min,,"Partida, Martin
+(H) (480) 206-2441
+(M) (480) 282-0501
+",,,,4/26/1963,g30454,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,no payment due,,,
+13,,"8/15/2022
+08:15 AM",30 min,,"Miller, James B
+(M) (916) 390-8848
+",,,,2/26/1955,g30462,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+14,,"8/15/2022
+08:30 AM",30 min,,"Armstrong, Rodney
+(M) (785) 633-0101
+",,,,9/27/1981,g24134,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,attempted $ info,,,
+15,,"8/15/2022
+08:45 AM",30 min,,"Gutierrez, Margarita
+(H) (480) 304-2115
+(M) (480) 640-7701
+",,,,4/8/1999,g30431,,EGD,EGD-Not contracted with Dr. Lopez.,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+16,,"8/15/2022
+09:00 AM",30 min,,"Garcia, Javier
+(M) (520) 705-4380
+",,,,6/4/1978,g30463,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+17,,"8/15/2022
+09:15 AM",30 min,,"Wilsey, Richard
+(M) (480) 238-6130
+",,,,6/9/1966,g27135,,EGD,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+18,,"8/15/2022
+09:30 AM",30 min,,"Munguia-Moore, Jo
+(M) (480) 618-8987
+",,,,10/25/1968,g23996,,EGD-Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+19,,"8/15/2022
+10:00 AM",30 min,,"Tran, Linh
+(M) (217) 390-2778
+",,,,6/27/1972,g30469,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+20,,"8/15/2022
+10:15 AM",30 min,,"Nelson, Gejuan
+(M) (850) 228-6244
+",,,,9/20/1970,g30470,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+21,,"8/15/2022
+10:30 AM",30 min,,"Fine, Benjamin R
+(M) (518) 420-5390
+",,,,5/11/1985,g30471,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+22,,"8/15/2022
+10:45 AM",30 min,,"Barker, Thomas
+(M) (602) 487-8124
+",,,,8/4/1959,g30472,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+23,,"8/15/2022
+11:00 AM",30 min,,"Lara, Linda
+(H) (714) 392-4259
+",,,,5/2/1950,g18476,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,attempted $ info,,,
+24,,"8/15/2022
+11:15 AM",30 min,,"Fletcher, Alvis
+(M) (520) 340-9209
+",,,,7/23/1984,g30473,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Confirmed,,,
+25,,"8/15/2022
+11:30 AM",30 min,,"Wamba, Margarita R
+(H) (480) 492-7084
+",,,,1/2/1945,g21483,,Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,attempted $ info,,,
+26,,"8/15/2022
+11:45 AM",30 min,,"Smith, Douglas J
+(M) (916) 548-6138
+",,,,12/7/1965,g30474,,EGD-Colonoscopy,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,attempted $ info,,,
+27,,"8/15/2022
+12:15 PM",30 min,,"Carbajal, Alicia
+(M) (480) 466-2040
+",,,,10/25/1947,g30486,,EGD,,,"Reddy, Sudhakar",Central Arizona GI and Liver Institute,,Scheduled,,,
+28,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

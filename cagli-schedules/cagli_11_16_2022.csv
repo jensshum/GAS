@@ -1,0 +1,47 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-11-15 22:14:20.878,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-11-16 00:00:00,,To,,2022-11-16,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"11/16/2022
+09:00 AM",30 min,,"Reiling, Mikal D
+(H) (602) 361-4363
+",,,,5/2/1956,g20919,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+11,,"11/16/2022
+09:30 AM",30 min,,"Morris, Kenneth J
+(M) (480) 881-1950
+",,,,9/26/1972,g31321,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"11/16/2022
+09:45 AM",30 min,,"Brown, Karen L
+(M) (602) 789-4757
+",,,,7/18/1963,g31316,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"11/16/2022
+10:15 AM",30 min,,"Hermosillo, Jose
+(M) (623) 258-6830
+",,,,12/31/1959,g31319,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+16,,"11/16/2022
+10:45 AM",30 min,,"Wolfe, Michael C
+(M) (602) 717-5113
+",,,,7/6/1966,g26374,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+17,,"11/16/2022
+11:00 AM",30 min,,"Cipriano, Calogero
+(M) (708) 502-3732
+",,,,7/10/1951,g31318,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+18,,"11/16/2022
+11:15 AM",30 min,,"Becher, Jay
+(M) (480) 225-1829
+",,,,8/17/1967,g27034,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+19,,"11/16/2022
+11:30 AM",30 min,,"Castro, Mayra
+(M) (480) 977-7088
+",,,,12/21/1988,g31317,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+20,,"11/16/2022
+12:15 PM",30 min,,"Hernandez, Lenora
+(M) (480) 217-8451
+",,,,3/10/1969,g26194,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+21,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

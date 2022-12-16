@@ -1,0 +1,53 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-10-21 06:00:35.180,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-10-21 00:00:00,,To,,2022-10-21,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"10/21/2022
+07:30 AM",30 min,,"Briggs, Maria P
+(M) (505) 977-5606
+",,,,2/26/1974,g31067,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+10,,"10/21/2022
+07:30 AM",30 min,,"Sene, Lemigao
+(M) (520) 940-1300
+",,,,9/24/1963,g25814,,EGD,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"10/21/2022
+08:00 AM",30 min,,"Brockman, Robert
+(M) (602) 330-1603
+",,,,4/27/1958,g31039,,EGD-Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+14,,"10/21/2022
+09:00 AM",30 min,,"Richards, Cody C
+(M) (575) 654-6124
+",,,,5/28/1984,g31041,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+15,,"10/21/2022
+09:15 AM",30 min,,"Parker, Patrick
+(M) (602) 697-2968
+",,,,11/11/1975,g1359,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,"10/21/2022
+10:00 AM",30 min,,"Osunagalan, Rosa M
+(H) (602) 465-8343
+(M) (602) 699-8803
+",,,,8/25/1984,g31064,,EGD,Self pay,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+20,,"10/21/2022
+10:15 AM",30 min,,"Desmond, Sterling M
+(H) (480) 531-3885
+",,,,11/12/1980,g26134,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+22,,"10/21/2022
+10:45 AM",30 min,,"Huerta, Rashelle
+(H) (480) 202-5868
+(M) (480) 309-1979
+",,,,1/6/1975,g31068,,Colonoscopy,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+23,,"10/21/2022
+11:45 AM",30 min,,"Honea, Justin
+(M) (480) 546-0786
+",,,,10/16/1992,g31065,,EGD,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+24,,"10/21/2022
+12:15 PM",30 min,,"Mitchell, Thaddeus D
+(M) (480) 570-0130
+",,,,10/8/1960,g31063,,EGD,,,"Nemakayala, Divyesh Reddy",Central Arizona GI and Liver Institute,,Confirmed,,,
+25,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

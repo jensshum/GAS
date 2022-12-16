@@ -1,0 +1,45 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-08-10 14:39:30.727,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-08-10 00:00:00,,To,,2022-08-10,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+10,,"8/10/2022
+09:00 AM",30 min,,"Peters, Gayle D
+(M) (651) 442-7865
+",,,,7/25/1950,g30438,,EGD-Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Procedure Complete,,,
+12,,"8/10/2022
+09:30 AM",30 min,,"Skotdal, Glenn E
+(H) (520) 788-1001
+(M) (425) 221-3200
+",,,,9/20/1950,g4172,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Procedure Complete,,,
+14,,"8/10/2022
+09:45 AM",30 min,,"Lee, Brandon
+(M) (509) 981-5509
+",,,,9/20/1969,g30439,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Procedure Complete,,,
+16,,"8/10/2022
+10:00 AM",30 min,,"Wu, Juemei
+(M) (626) 632-0658
+",,,,8/20/1971,g30453,,Colonoscopy,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Procedure Complete,,,
+17,,"8/10/2022
+10:15 AM",30 min,,"Baize, Patty A
+(H) (480) 529-6940
+",,,,7/11/1964,g21570,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Procedure Complete,,,
+18,,"8/10/2022
+10:30 AM",30 min,,"Martinez, Martha Leticia
+(H) (480) 395-4282
+(M) (480) 395-4283
+",,,,5/22/1959,g27266,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Procedure Complete,,,
+19,,"8/10/2022
+10:45 AM",30 min,,"Kassie, Leyew
+(M) (480) 221-6600
+",,,,11/1/1964,g30436,,Colonoscopy,,SELF PAY,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,Procedure Complete,,,
+20,,"8/10/2022
+11:00 AM",30 min,,"Marsing, Trace
+(M) (623) 256-9684
+",,,,9/6/1995,g30437,,EGD,,,"Lopez Gonzalez, Raul",Central Arizona GI and Liver Institute,,No Show,,,
+21,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,

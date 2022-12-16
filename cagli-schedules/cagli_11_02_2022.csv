@@ -1,0 +1,48 @@
+,Appointment Schedule Report,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Page 1 of 1
+0,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,2022-11-02 06:00:37.446,,
+2,,,,,,,,,,,,,,,,,,,,,
+3,,From,,2022-11-02 00:00:00,,To,,2022-11-02,,,,,,,,,,,,,
+4,,Provider(s):,,ALL,,,,,,,,,,,,,,,,,
+5,,Location(s):,,ALL,,,,,,,,,,,,,,,,,
+6,,Activity:,,ALL,,,,,,,,,,,,,,,,,
+7,,Status(es):,,ALL,,,,,,,,,,,,,,,,,
+8,,Date/Time,Duration,,Patient / Phone,,,,DOB,Acct #,,Activity,Chief Complaint,Notes,Provider,Location,,Status / Total,,,
+9,,"11/2/2022
+09:00 AM",30 min,,"Contreras, Alphonso
+(M) (619) 636-8805
+",,,,3/22/1998,g31185,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+10,,"11/2/2022
+09:15 AM",30 min,,"Pagel, Jeremiah
+(H) (480) 277-2099
+(M) (602) 466-8314
+",,,,4/18/2002,g30911,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+11,,"11/2/2022
+09:45 AM",30 min,,"Long, Matthew T
+(M) (541) 962-5097
+",,,,3/26/1976,g31184,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+12,,"11/2/2022
+10:00 AM",30 min,,"Padilla, Jana
+(M) (602) 618-0475
+",,,,1/24/1974,g31183,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,pt notified of $ amt,,,
+13,,"11/2/2022
+10:15 AM",30 min,,"McCombs, Evangeline
+(M) (480) 353-9375
+",,,,12/30/1975,g31010,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+14,,"11/2/2022
+10:45 AM",30 min,,"Nelson, Kathy L
+(M) (252) 525-8693
+",,,,10/31/1958,g31182,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmation attempted,,,
+15,,"11/2/2022
+11:00 AM",30 min,,"Huggins, Billie Jo
+(M) (480) 652-0991
+",,,,9/22/1973,g24718,,EGD-Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+16,,"11/2/2022
+11:30 AM",30 min,,"Fuller, Mark
+(M) (480) 440-9641
+",,,,2/10/1986,g31179,,EGD,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+18,,"11/2/2022
+12:15 PM",30 min,,"Romero, Michael
+(M) (480) 280-2002
+",,,,5/1/1979,g25121,,Colonoscopy,,,"Qureshi, Shahbaz",Central Arizona GI and Liver Institute,,Confirmed,,,
+19,,Error: Subreport could not be shown.,,,,,,,,,,,,,,,,,,,
