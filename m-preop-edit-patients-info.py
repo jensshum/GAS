@@ -87,9 +87,10 @@ def wait_until_available(search_term, qualifier, item):
             try_count += 1
 
 def get_undedited_patients():
-    unedited_records_query = '''SELECT * FROM uneditedrecords WHERE corrected <> 'true'; '''
+    unedited_records_query = '''SELECT * FROM recordsedited WHERE corrected <> 'true'; '''
     cur.execute(unedited_records_query)
     unedited = cur.fetchall()
+    # print(unedited[0])
     # print(unedited)
     return unedited
 
@@ -98,7 +99,6 @@ def get_patient_to_edit(number):
     cur.execute(records_to_edit_query)
     data_to_edit = cur.fetchone()
     # print("DATATOEDIT",data_to_edit)
-
     return data_to_edit
 
 def set_date():
@@ -145,17 +145,25 @@ def edit_patient_info(START_ITEM=0):
             if str(START_ITEM) == str(to_edit[i][7]).replace(".0",""):
                 START_ITEM = i
     for i in range(START_ITEM,len(to_edit)):
-        unedited_patient_name = str(to_edit[i][4]) + "," + str(to_edit[i][5])
+        # parse patient information from database
+        print(to_edit[i])
+        
+        unedited_patient_name = str(to_edit[i][3]) + "," + str(to_edit[i][4])
         print(unedited_patient_name)
-        epreop_number = str(to_edit[i][8]).replace(".0","")
+        epreop_number = str(to_edit[i][7]).replace(".0","")
         print(epreop_number)
+        # break
         try:
             patient_data = get_patient_to_edit(epreop_number)
+            # print(patient_data)
             patient_name = patient_data[3] + "," + patient_data[4]
+            # print(patient_data)
+
             dob = str(patient_data[5])
             dos = str(patient_data[19])
         except TypeError:
             continue
+        # break
         print(f"Starting new search. Patient Name: {unedited_patient_name} ")
         wait_until_available('Search_PatientName','ID','clear')
         wait_until_available('Search_PatientName','ID',unedited_patient_name)
@@ -165,9 +173,9 @@ def edit_patient_info(START_ITEM=0):
         date_set = True
         wait_until_available('Search_PatientName','ID','RETURN')
         sleep(5)
-        if len(driver.find_elements(By.XPATH,'//*[@id="mainContent"]/form/ul/li')) == 0:
+        if len(driver.find_elements(By.XPATH,'//*[@id="mainContent"]/form/ul/li')) != 1:
             print('No record found. Moving on to next record.')
-            update_postgre(patient_name,epreop_number)
+            # update_postgre(patient_name,epreop_number)
             continue
         else:
             print('Record found. Making edits.')
@@ -187,13 +195,22 @@ def edit_patient_info(START_ITEM=0):
             wait_until_available('PatientFirstName','ID','clear')
             wait_until_available('PatientLastName','ID','clear')
             wait_until_available('PatientFirstName','ID', return_lowercase(patient_name,'firstname'))
+            # sleep(2)
             wait_until_available('PatientLastName','ID', return_lowercase(patient_name,'lastname'))
+            # sleep(2)
             wait_until_available('DOB_DatePicker','ID', 'clear')
             wait_until_available('DOB_DatePicker','ID', return_formatted_date(dob))
+            # sleep(2)
+            
             wait_until_available('ProcedureDate_DatePicker','ID', 'clear')
             wait_until_available('ProcedureDate_DatePicker','ID', return_formatted_date(dos))
+            # sleep(2)
+            # date = return_formatted_date(dos)
+            # print(date)
             wait_until_available('//*[@id="mainContent"]/div[1]/form/div[14]/button','XPATH', 'click')
+            # sleep(20)
             print(patient_name, epreop_number)
+            # break
             update_postgre(patient_name,epreop_number)
             print('Record updated. Back to Menu.')
             wait_until_available('//*[@id="Header_Menu"]','XPATH', 'click')
